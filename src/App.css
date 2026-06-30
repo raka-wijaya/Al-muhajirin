@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-MavenPro: "Maven Pro", sans-serif; 
+  --font-Nunito: "Nunito", sans-serif; 
+}
