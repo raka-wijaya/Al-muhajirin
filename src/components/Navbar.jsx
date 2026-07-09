@@ -33,7 +33,7 @@ const Navbar = () => {
         <div className="hidden md:flex items-center gap-8 font-medium text-[#230F0F]">
           <Link to="/" className="hover:text-[#313273] font-mavenpro">Beranda</Link>
           <Link to='/tentang-kami' className="hover:text-[#313273] font-mavenpro">Tentang Kami</Link>
-          <Link to='/kontak' className="hover:text-[#313273] font-mavenpro">Kontak Kami</Link>
+          <Link to='/hubungi-kami' className="hover:text-[#313273] font-mavenpro">Kontak Kami</Link>
 
           {/* <div className="group relative cursor-pointer">
             <div className="flex items-center gap-1 hover:text-[#313273] font-mavenpro">
@@ -72,7 +72,7 @@ const Navbar = () => {
         <div className="flex flex-col gap-4 pb-4 font-medium text-gray-700">
           <Link to='/' className="hover:text-[#313273] px-2 font-mavenpro">Beranda</Link>
           <Link to='/tentang-kami' className="hover:text-[#313273] px-2 font-mavenpro">Tentang Kami</Link>
-          <Link to='/kontak' className="hover:text-[#313273] px-2 font-mavenpro">Kontak Kami</Link>
+          <Link to='/hubungi-kami' className="hover:text-[#313273] px-2 font-mavenpro">Kontak Kami</Link>
           {/* <div className="px-2">
             <p className="text-sm text-gray-400 mb-2 font-mavenpro">Layanan:</p>
             <div className="flex flex-col gap-3 pl-4 border-l-2 border-gray-100">
