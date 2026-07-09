@@ -9,7 +9,7 @@ function DaftarSekarang() {
     kelas: "",
   });
 
-  const nomorWA = "6281333625421"; // Ganti dengan nomor admin
+  const nomorWA = "6281336131759"; // Ganti dengan nomor admin
 
   const handleChange = (e) => {
     setForm({
